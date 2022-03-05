@@ -1,0 +1,1 @@
+Gerador de senha feito com JS puro, HTML e css.
