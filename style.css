@@ -103,3 +103,7 @@ body{
     bottom: 50px;
     opacity: 1;
 }
+
+.hide{
+    display: none;
+}
